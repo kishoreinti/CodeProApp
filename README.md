@@ -44,6 +44,10 @@ We welcome contributions! If you want to contribute:
 ## 📜 License
 This project is licensed under the **MIT License**.
 
+## 📥 Download the APK
+[⬇ Download Latest APK](https://github.com/yourusername/your-repo-name/releases/latest/download/codepro.apk)
+
+
 ## 📩 Contact
 For any issues or suggestions, feel free to reach out:
 - 📧 Email: [codepro112.info@gmail.com](mailto:codepro112.info@gmail.com)
