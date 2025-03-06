@@ -45,7 +45,7 @@ We welcome contributions! If you want to contribute:
 This project is licensed under the **MIT License**.
 
 ## 📥 Download the APK
-[⬇ Download Latest APK](https://github.com/yourusername/your-repo-name/releases/latest/download/codepro.apk)
+[⬇ Download Latest APK](https://github.com/kishoreinti/CodeProApp/releases/latest/download/codepro.apk)
 
 
 ## 📩 Contact
