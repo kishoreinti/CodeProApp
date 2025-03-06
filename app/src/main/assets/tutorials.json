@@ -1,0 +1,104 @@
+{
+  "Python": {
+    "Variables and Data Types": {
+      "description": "Learn how to create variables and understand different data types in Python.",
+      "concepts": ["Variables", "Data Types", "Casting"]
+    },
+    "Control Flow": {
+      "description": "Control the flow of your program using conditional statements and loops.",
+      "concepts": ["If-Else Statements", "For Loops", "While Loops"]
+    },
+    "Functions": {
+      "description": "Learn to write reusable pieces of code with functions.",
+      "concepts": ["Defining Functions", "Arguments and Return Values", "Lambda Functions"]
+    },
+    "Object-Oriented Programming": {
+      "description": "Introduction to the object-oriented programming paradigm.",
+      "concepts": ["Classes and Objects", "Inheritance", "Polymorphism", "Encapsulation"]
+    },
+    "Modules and Packages": {
+      "description": "Learn about code reusability and how to structure Python projects.",
+      "concepts": ["Importing Modules", "Creating Packages", "Using Libraries"]
+    },
+    "Exception Handling": {
+      "description": "Learn how to handle runtime errors and exceptions in Python.",
+      "concepts": ["Try-Except Blocks", "Custom Exceptions", "Handling Multiple Exceptions"]
+    },
+    "File Handling": {
+      "description": "Learn how to work with files in Python.",
+      "concepts": ["Opening Files", "Reading Files", "Writing to Files", "File Modes"]
+    },
+    "List Comprehensions": {
+      "description": "Learn a concise way to create lists in Python using list comprehensions.",
+      "concepts": ["Basic List Comprehension", "Conditional List Comprehension", "Nested List Comprehension"]
+    },
+    "Regular Expressions": {
+      "description": "Learn how to match patterns in text using regular expressions.",
+      "concepts": ["Regular Expression Syntax", "Using re Module", "Pattern Matching"]
+    },
+    "Decorators": {
+      "description": "Learn how to modify the behavior of functions using decorators.",
+      "concepts": ["Defining Decorators", "Using Built-in Decorators", "Chaining Decorators"]
+    },
+    "Generators": {
+      "description": "Learn about generators and how to create iterators in Python.",
+      "concepts": ["Generator Functions", "The yield Keyword", "Generator Expressions"]
+    },
+    "Multithreading": {
+      "description": "Learn how to execute multiple threads concurrently in Python.",
+      "concepts": ["Threading Module", "Creating Threads", "Thread Synchronization"]
+    },
+    "Data Structures": {
+      "description": "Understand common data structures and how to use them efficiently.",
+      "concepts": ["Lists", "Tuples", "Sets", "Dictionaries"]
+    },
+    "Numpy and Pandas": {
+      "description": "Learn about popular libraries for data manipulation and analysis.",
+      "concepts": ["Numpy Arrays", "Pandas DataFrames", "Data Manipulation with Pandas"]
+    }
+  },
+  "SQL": {
+    "Introduction to SQL": {
+      "description": "Learn the basics of SQL and how to interact with databases.",
+      "concepts": ["SQL Syntax", "SELECT Statements", "Filtering Data"]
+    },
+    "Joins": {
+      "description": "Learn how to combine data from multiple tables.",
+      "concepts": ["Inner Join", "Left Join", "Right Join", "Full Join"]
+    },
+    "Subqueries": {
+      "description": "Understand how to use subqueries to make complex queries simpler.",
+      "concepts": ["Nested Queries", "Correlated Subqueries"]
+    },
+    "Database Normalization": {
+      "description": "Learn how to structure data to minimize redundancy and improve efficiency.",
+      "concepts": ["1NF", "2NF", "3NF"]
+    },
+    "Indexes": {
+      "description": "Speed up queries and searches with indexes.",
+      "concepts": ["Creating Indexes", "Using Indexes for Query Optimization"]
+    }
+  },
+  "Java": {
+    "Introduction to Java": {
+      "description": "Learn the fundamentals of Java programming language.",
+      "concepts": ["Java Syntax", "Variables and Data Types", "Control Flow Statements"]
+    },
+    "Object-Oriented Programming in Java": {
+      "description": "Learn about classes, objects, and core OOP principles.",
+      "concepts": ["Classes and Objects", "Constructors", "Methods", "Inheritance", "Polymorphism"]
+    },
+    "Exception Handling": {
+      "description": "Learn how to handle runtime errors in Java.",
+      "concepts": ["Try-Catch", "Throwing Exceptions", "Custom Exceptions"]
+    },
+    "Collections Framework": {
+      "description": "Learn about Java's built-in data structures.",
+      "concepts": ["List", "Set", "Map", "Queue"]
+    },
+    "Streams and Lambda Expressions": {
+      "description": "Learn to work with streams and lambda expressions in Java.",
+      "concepts": ["Streams API", "Lambda Expressions", "Functional Interfaces"]
+    }
+  }
+}

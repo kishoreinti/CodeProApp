@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:src="@drawable/logo"
+        android:contentDescription="CodePro"
+        android:id="@+id/logo"/>
+    <TextView
+        android:id="@+id/headerText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Code"
+        android:textSize="30sp"
+        android:textColor="@color/blue"
+        android:layout_below="@id/logo"
+        android:gravity="center"
+        android:layout_marginLeft="35dp"/>
+
+    <TextView
+        android:id="@+id/headerText2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+      android:layout_marginLeft="2dp"
+        android:layout_below="@id/logo"
+        android:layout_toRightOf="@+id/headerText"
+        android:text="Pro"
+        android:textColor="@color/black"
+        android:textSize="30sp"
+        android:gravity="center"/>
+
+
+</RelativeLayout>
