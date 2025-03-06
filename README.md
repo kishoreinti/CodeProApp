@@ -13,6 +13,9 @@ This Android application provides **technical tutorials** on **Java, SQL, and Py
 - **GNEWS API** (for fetching news articles)
 - **JSON** (for Retrieving the coding tutorials)
 
+## 📷 Screenshots
+
+ 
 ## 🚀 How to Install
 1. Clone this repository:
    ```bash
