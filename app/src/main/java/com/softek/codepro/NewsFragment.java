@@ -72,7 +72,7 @@ public class NewsFragment extends Fragment {
         loadingPB.setVisibility(View.VISIBLE);
         articlesArrayList.clear();
 
-        String API_KEY = "38520f0542ef9893582212e9bb07a7ee"; // GNews API key
+        String API_KEY = "Your API Key"; // GNews API key
 
         Retrofit retrofit = new Retrofit.Builder()
                 .baseUrl("https://gnews.io/api/v4/")  // GNews API base URL
