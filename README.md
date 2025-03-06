@@ -14,16 +14,17 @@ This Android application provides **technical tutorials** on **Java, SQL, and Py
 - **JSON** (for Retrieving the coding tutorials)
 
 ## 📷 Screenshots
-![App Screenshot](IMG-20250306-WA0003.jpg)
+<div style="display: flex; justify-content: center;">
+<img src="IMG-20250306-WA0003.jpg" width="120" height="250">
 
-![App Screenshot](IMG-20250306-WA0004.jpg)
+<img src="IMG-20250306-WA0004.jpg" width="120" height="250">
 
-![App Screenshot](IMG-20250306-WA0005.jpg)
+<img src="IMG-20250306-WA0005.jpg" width="120" height="250">
 
-![App Screenshot](IMG-20250306-WA0006.jpg)
+<img src="IMG-20250306-WA0006.jpg" width="120" height="250">
 
-![App Screenshot](IMG-20250306-WA0007.jpg)
-
+<img src="IMG-20250306-WA0007.jpg" width="120" height="250">
+</div>
 
 ## 🚀 How to Install
 1. Clone this repository:
