@@ -3,6 +3,15 @@
 ## 📱 About the App
 This Android application provides **technical tutorials** on **Java, SQL, and Python**, along with the latest **news updates across India**. Built using **Android Studio** and **JAVA**, the app is designed to help users learn programming concepts and stay updated with trending news.
 
+
+
+## 🗂️ Application WorkFlow
+
+
+<img src="diagram (1).png" width="900" height="300">
+
+
+
 ## ✨ Features
 - 📖 **Coding Tutorials**: Learn Java, SQL, and Python with structured tutorials.
 - 📰 **Latest News**: Get real-time news updates from various categories like Technology, Business, Sports, Health, and Entertainment.
